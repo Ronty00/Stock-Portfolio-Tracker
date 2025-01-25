@@ -1,4 +1,5 @@
-Stock Portfolio Tracker
+Stock Portfolio Tracker:
+
 This Stock Portfolio Tracker is a Python-based application that helps users manage and monitor their stock investments. It allows you to add stocks, remove them, and track real-time prices with live updates.
 
 Note: This project is still under development. It currently includes basic features, but advanced functionalities will be added soon!
